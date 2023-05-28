@@ -1,0 +1,1 @@
+import{o as e,a as o,b as t}from"./entry.4496038c.js";const r={viewBox:"0 0 24 24",width:"1.2em",height:"1.2em"},n=t("path",{fill:"none",stroke:"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"2",d:"M5 12h14m-7-7l7 7l-7 7"},null,-1),s=[n];function c(a,i){return e(),o("svg",r,s)}const l={name:"feather-arrow-right",render:c};export{l as I};
