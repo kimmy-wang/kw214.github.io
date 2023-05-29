@@ -1,1 +1,0 @@
-import{C as t,a as n,f as c,D as a,o as s}from"./entry.ba9874f2.js";const _={},r={class:"w-full"};function l(e,f){const o=a;return s(),n("section",r,[c(o,{"page-key":e.$route.fullPath},null,8,["page-key"])])}const p=t(_,[["render",l]]);export{p as default};
