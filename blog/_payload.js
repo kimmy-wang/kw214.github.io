@@ -1,0 +1,1 @@
+export default {data:{blog:null},prerenderedAt:1685426773395}

@@ -1,0 +1,1 @@
+export default {data:{medium:null},prerenderedAt:1685426774083}
